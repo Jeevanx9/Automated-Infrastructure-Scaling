@@ -1,0 +1,9 @@
+// monitoring/grafana/dashboard.json
+
+{
+  "dashboard": {
+    // Your Grafana dashboard JSON configuration
+  },
+  "folder": "",
+  "overwrite": false
+}

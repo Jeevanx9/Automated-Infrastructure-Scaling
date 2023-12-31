@@ -1,0 +1,16 @@
+project-1-automated-scaling/
+|-- webapp/
+|   |-- app.py
+|-- terraform/
+|   |-- main.tf
+|   |-- variables.tf
+|   |-- outputs.tf
+|-- autoscaling/
+|   |-- scale_up.sh
+|   |-- scale_down.sh
+|-- monitoring/
+|   |-- prometheus/
+|       |-- prometheus.yml
+|   |-- grafana/
+|       |-- dashboard.json
+|-- README.md
